@@ -1,0 +1,28 @@
+{
+  "channels": {
+    "WonderFacts24_7": {
+      "prompt_logic": "Provide 4 mind-blowing science or space facts. Use high-engagement hooks. English only. Mention day and location if relevant.",
+      "final_hook": "Subscribe to discover the wonders of our world!",
+      "schedule": ["08:00", "14:00", "20:00"],
+      "news_type": "Science/Educational"
+    },
+    "TrendWave Now": {
+      "prompt_logic": "Provide the latest cricket and bollywood news from today. Mention players/stars, location of events, and the specific day. English only.",
+      "final_hook": "Tune with us for the latest trends!",
+      "schedule": ["10:50", "18:30"],
+      "news_type": "Entertainment/Sports"
+    },
+    "ExamPulse24_7": {
+      "prompt_logic": "Provide critical updates on competitive exams, results, or government job notifications from today. English only.",
+      "final_hook": "Subscribe for daily exam updates!",
+      "schedule": ["07:00", "19:00"],
+      "news_type": "Educational/News"
+    }
+  },
+  "global_settings": {
+    "language": "English",
+    "upload_status": "private",
+    "video_format": "9:16",
+    "mandatory_phrase": "Tune with us for more such news"
+  }
+}

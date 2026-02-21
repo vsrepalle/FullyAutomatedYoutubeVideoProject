@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Video Files
+output/
+*.mp4
+
+# OS Files
+.DS_Store
+Thumbs.db
